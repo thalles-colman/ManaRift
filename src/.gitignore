@@ -1,0 +1,15 @@
+# Ignora arquivos de cache
+__pycache__/
+*.py[cod]
+
+# Ignora ambientes virtuais
+venv/
+.env
+
+# Arquivos sensíveis
+*.env
+credentials.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
