@@ -2,7 +2,7 @@
 
 Landing page institucional desenvolvida para a **ManaRift Studios**, uma empresa fictícia do setor de iGaming.
 
-O projeto tem como objetivo demonstrar habilidades em **desenvolvimento front-end moderno**, com foco em **UX/UI**, **responsividade** e **conversão**, sendo ideal para o portfólio de um desenvolvedor júnior.
+O projeto tem como objetivo demonstrar habilidades em **desenvolvimento front-end moderno**, com foco em **UX/UI**, **responsividade** e **conversão**.
 
 ---
 
